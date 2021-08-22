@@ -1,0 +1,12 @@
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\bin\Debug\notePad.exe.config
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\bin\Debug\notePad.exe
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\bin\Debug\notePad.pdb
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\obj\Debug\notePad.csproj.AssemblyReference.cache
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\obj\Debug\notePad.Form1.resources
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\obj\Debug\notePad.Properties.Resources.resources
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\obj\Debug\notePad.csproj.GenerateResource.cache
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\obj\Debug\notePad.csproj.CoreCompileInputs.cache
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\obj\Debug\notePad.exe
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\obj\Debug\notePad.pdb
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\obj\Debug\notePad.Form2.resources
+C:\Users\STEKAST\Desktop\C#\Forms\notePad\obj\Debug\notePad.Form3.resources
